@@ -1,0 +1,48 @@
+.ham-menu-card {
+  text-decoration: none;
+}
+.filter-ham-style {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.popup-content {
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0px;
+  padding: 0px;
+  height: 150px;
+  width: 300px;
+}
+
+.logout-head {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.cancel-btn {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-size: 10px;
+  height: 25px;
+  margin-right: 20px;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.confirm-btn {
+  background-color: #4f46e5;
+  border: 0px;
+  color: white;
+  font-size: 10px;
+  height: 25px;
+  cursor: pointer;
+}
